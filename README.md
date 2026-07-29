@@ -161,12 +161,10 @@ The analysis highlights how customer demographics, income, family structure, and
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
 **Dhruv Sai**
-
-- LinkedIn: www.linkedin.com/in/dhruv-sai
-- GitHub: github.com/dsai04
+[LinkedIn](https://www.linkedin.com/in/dhruv-sai/) · [GitHub](https://github.com/dsai04)
 
 ---
 ⭐ If you found this project useful, consider giving the repository a star!
